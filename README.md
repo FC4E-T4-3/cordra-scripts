@@ -1,6 +1,6 @@
 # cordra-scripts
 
-This repository contains a few small shellscripts to quickly and easily populate any running cordra instance. 
+This repository contains a few small shellscripts to quickly and easily populate any running cordra instance. Download from https://www.cordra.org/download.html and run, either directly or via docker.
 
 In the ```env.config``` file set the domain to reach the cordra instance, as well as the username and password of a user with admin access.
 
