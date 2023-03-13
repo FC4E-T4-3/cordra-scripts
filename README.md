@@ -1,4 +1,10 @@
-# cordra-scripts
+# Helpe Scripts for Data Type Registry 
+
+## Context
+
+This repository is part of the FAIRCORE4EOSC Project (https://faircore4eosc.eu) funded by the European Union
+
+## Import Definitions and Instances
 
 This repository contains a few small shellscripts to quickly and easily populate any running cordra instance. Download from https://www.cordra.org/download.html, setup and run using the given documentation.
 
