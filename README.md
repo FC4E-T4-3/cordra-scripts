@@ -1,4 +1,4 @@
-# Helpe Scripts for Data Type Registry 
+# Helper Scripts for Data Type Registry 
 
 ## Context
 
